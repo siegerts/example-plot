@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "Example Plot.ipynb"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.7.4",
+    "package_manager": {
+      "name": "pip",
+      "version": "19.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "Example Plot.ipynb": {
+      "checksum": "94cffe0c9c9967b34bf10add72f049ec"
+    },
+    "requirements.txt": {
+      "checksum": "8fe92005e5fa87ddfa5d9367a6f10dbc"
+    }
+  }
+}
